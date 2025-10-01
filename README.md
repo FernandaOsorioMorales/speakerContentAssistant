@@ -60,5 +60,6 @@ streamlit run app/main.py
 ```
 
 ## Content related with the app
-### AWS builder Center Article:
+### AWS builder Center Article
+[Lee el artículo completo](https://builder.aws.com/content/33SECW8jhihqY8VgW6KYQM26NWB/creando-un-asistente-para-speakers-con-amazon-bedrock-de-developer-a-presentador)
 ### Instagram Reel: 
